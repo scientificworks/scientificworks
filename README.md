@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scientificworks
-- 👀 We publish books and white papers in various scientifc fields.
-- 🌱We also do projects in Chemistry, Optics and Robotics.
+- 👀 We publish books and white papers in various scientific fields.
+- 🌱We also do projects in Chemistry, Optics, Orbital Mechanics and Robotics.
 - 💞️ Books are on General Theory of Relativity, Orbital Mechanics with Code in Mathematica, Upcomminmg Work on Rocket Propulsion
 - 📫 Reach us at https://scientificworks.org and at Twitter @scientific57217
 - 
